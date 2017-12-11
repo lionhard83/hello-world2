@@ -1,0 +1,17 @@
+{
+  "name": "dices",
+  "version": "1.0.0",
+  "description": "\"A simple package to extract dices random\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Dices",
+    "Demo",
+    "Extract",
+    "Random"
+  ],
+  "author": "carloleonardi <carloleonardi83@gmail.com>",
+  "license": "MIT"
+}
