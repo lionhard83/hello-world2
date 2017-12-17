@@ -1,3 +1,3 @@
 # hello-world2
 
-# Il mio primo hello world
+# Il mio 1° hello world
