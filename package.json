@@ -1,5 +1,5 @@
 {
-  "name": "dices",
+  "name": "dices-l",
   "version": "1.0.0",
   "description": "\"A simple package to extract dices random\"",
   "main": "index.js",
@@ -13,5 +13,13 @@
     "Random"
   ],
   "author": "carloleonardi <carloleonardi83@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lionhard83/hello-world2.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lionhard83/hello-world2/issues"
+  },
+  "homepage": "https://github.com/lionhard83/hello-world2#readme"
 }
